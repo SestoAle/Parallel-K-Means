@@ -57,10 +57,10 @@ Here an example of the execution of the program plotted with Gnuplot:
 
 ## Reports
 A copy of the report (italian) can be found 
-<a href="https://github.com/SestoAle/Parallel-K-Means/raw/master/reports/report.pdf" download="report.pdf">here</a>.
+<a href="https://github.com/SestoAle/Parallel-K-Means/raw/master/report/report.pdf" download="report.pdf">here</a>.
 
 A copy of the presentation can be found
-<a href="https://github.com/SestoAle/Parallel-K-Means/raw/master/reports/presentation.pdf" download="presentation.pdf">here</a>.
+<a href="https://github.com/SestoAle/Parallel-K-Means/raw/master/report/presentation.pdf" download="presentation.pdf">here</a>.
 
 ## License
 Licensed under the term of [MIT License](https://github.com/SestoAle/Parallel-K-Means/blob/master/LICENSE).
